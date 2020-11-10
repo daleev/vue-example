@@ -18,5 +18,6 @@ module.exports = {
     'require-jsdoc': 'off',
     'arrow-parens': 'off',
     'operator-linebreak': 'off',
+    'vue/no-unused-components': 'off',
   },
 };
