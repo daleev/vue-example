@@ -1,4 +1,5 @@
 # vue-example
+## Demo: https://daleev.github.io/vue-example/
 
 ## Project setup
 ```
